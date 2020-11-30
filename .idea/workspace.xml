@@ -3,30 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0ca1a1bc-ee9b-4c52-8b15-be88598b0a7e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency_Phace_Filter/.ipynb_checkpoints/HW1-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency_Phace_Filter/1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency_Phace_Filter/2DConvolved_bld_frequency.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency_Phace_Filter/2DConvolved_bld_space.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency_Phace_Filter/Bean image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency_Phace_Filter/Computer Vision.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency_Phace_Filter/HW1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency_Phace_Filter/Homework1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency_Phace_Filter/Report.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency_Phace_Filter/bone_Gassian.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency_Phace_Filter/bone_averageMast.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency_Phace_Filter/images/bean.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency_Phace_Filter/images/bld.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency_Phace_Filter/images/bone.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency_Phace_Filter/images/cameraman.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency_Phace_Filter/images/char.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency_Phace_Filter/images/dollar.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency_Phace_Filter/images/fruits.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency_Phace_Filter/images/pout.tif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency_Phace_Filter/images/truck.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency_Phace_Filter/images/truckNoise.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency_Phace_Filter/linesDetected.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency_Phace_Filter/res2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Frequency_Phace_Filter/result11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Edge_Face_Hough_Panarama/HW2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Edge_Face_Hough_Panarama/HW2.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,14 +12,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/Downloads/Part2.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="550" />
-    <option name="y" value="45" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -52,7 +35,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -64,6 +46,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -122,17 +105,20 @@
       <workItem from="1604636307365" duration="720000" />
       <workItem from="1605174591180" duration="29000" />
       <workItem from="1606304801656" duration="3526000" />
-      <workItem from="1606470761740" duration="619000" />
+      <workItem from="1606470761740" duration="1339000" />
+      <workItem from="1606567603410" duration="1221000" />
+      <workItem from="1606645632449" duration="1430000" />
+      <workItem from="1606724901521" duration="1572000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20561000" />
+    <option name="totallyTimeSpent" value="25504000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15549597" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.038873993" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -146,7 +132,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.32673267" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.17256011" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -169,5 +155,8 @@
     <entry file="file://$PROJECT_DIR$/Frequency_Phace_Filter/HW1.ipynb" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa14364.29858/Canny Edge Detector.ipynb" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa20008.2369/Facial recognition.ipynb" />
+    <entry file="file://$USER_HOME$/Downloads/Part2.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
   </component>
 </project>
