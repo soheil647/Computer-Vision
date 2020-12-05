@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ca1a1bc-ee9b-4c52-8b15-be88598b0a7e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Edge_Face_Hough_Panarama/.ipynb_checkpoints/HW2-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Edge_Face_Hough_Panarama/.ipynb_checkpoints/HW2-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/Edge_Face_Hough_Panarama/HW2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Edge_Face_Hough_Panarama/HW2.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="y" value="-10" />
     <option name="width" value="980" />
@@ -116,7 +116,7 @@
     <option name="totallyTimeSpent" value="25504000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.038873993" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
