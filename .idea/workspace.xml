@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0ca1a1bc-ee9b-4c52-8b15-be88598b0a7e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Machine_Vision.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Machine_Vision.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="550" />
     <option name="y" value="45" />
     <option name="width" value="980" />
@@ -40,7 +38,13 @@
             <path>
               <item name="Machine_Vision" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine_Vision" type="462c0819:PsiDirectoryNode" />
-              <item name="Calibration_3D_Projective" type="462c0819:PsiDirectoryNode" />
+              <item name="Projects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Machine_Vision" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Machine_Vision" type="462c0819:PsiDirectoryNode" />
+              <item name="Projects" type="462c0819:PsiDirectoryNode" />
+              <item name="NeuralNetwork_CNN_ColorMap" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -114,16 +118,20 @@
       <workItem from="1608731767432" duration="1206000" />
       <workItem from="1608795599469" duration="3043000" />
       <workItem from="1608883701099" duration="1230000" />
+      <workItem from="1608980121812" duration="14000" />
+      <workItem from="1609611364328" duration="241000" />
+      <workItem from="1609698244063" duration="403000" />
+      <workItem from="1609736487254" duration="1660000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31077000" />
+    <option name="totallyTimeSpent" value="33395000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.07372654" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.112600535" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -137,7 +145,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.37623763" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.37623763" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
