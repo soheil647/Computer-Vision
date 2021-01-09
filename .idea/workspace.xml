@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0ca1a1bc-ee9b-4c52-8b15-be88598b0a7e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/NeuralNetwork_CNN_ColorMap/.ipynb_checkpoints/HW4-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/NeuralNetwork_CNN_ColorMap/.ipynb_checkpoints/HW4-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/NeuralNetwork_CNN_ColorMap/HW4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/NeuralNetwork_CNN_ColorMap/HW4.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,14 +13,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Projects/NeuralNetwork_CNN_ColorMap/HW4.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="550" />
-    <option name="y" value="45" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
   </component>
@@ -28,6 +36,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -50,7 +59,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -121,17 +129,24 @@
       <workItem from="1608980121812" duration="14000" />
       <workItem from="1609611364328" duration="241000" />
       <workItem from="1609698244063" duration="403000" />
-      <workItem from="1609736487254" duration="1660000" />
+      <workItem from="1609736487254" duration="1741000" />
+      <workItem from="1609783938797" duration="618000" />
+      <workItem from="1609835032181" duration="2849000" />
+      <workItem from="1609865949164" duration="793000" />
+      <workItem from="1610035798771" duration="599000" />
+      <workItem from="1610091116421" duration="1695000" />
+      <workItem from="1610183286015" duration="602000" />
+      <workItem from="1610191840749" duration="784000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33395000" />
+    <option name="totallyTimeSpent" value="41416000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.112600535" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1313673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -145,7 +160,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.37623763" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.38613862" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -169,5 +184,8 @@
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa14364.29858/Canny Edge Detector.ipynb" />
     <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa20008.2369/Facial recognition.ipynb" />
     <entry file="file://$USER_HOME$/Downloads/Part2.ipynb" />
+    <entry file="file://$PROJECT_DIR$/Projects/NeuralNetwork_CNN_ColorMap/HW4.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
   </component>
 </project>
