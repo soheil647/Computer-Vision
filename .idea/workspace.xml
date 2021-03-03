@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="0ca1a1bc-ee9b-4c52-8b15-be88598b0a7e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Projects/NeuralNetwork_CNN_ColorMap/.ipynb_checkpoints/HW4-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/NeuralNetwork_CNN_ColorMap/.ipynb_checkpoints/HW4-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Calibration_3D_Projective/HW3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Calibration_3D_Projective/HW3.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Frequency_Phace_Filter/HW1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Frequency_Phace_Filter/HW1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Projects/Frequency_Phace_Filter/bone_Gassian.png" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/Frequency_Phace_Filter/bone_Gassian.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Projects/NeuralNetwork_CNN_ColorMap/HW4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Projects/NeuralNetwork_CNN_ColorMap/HW4.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -36,7 +38,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -53,12 +54,13 @@
               <item name="Machine_Vision" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine_Vision" type="462c0819:PsiDirectoryNode" />
               <item name="Projects" type="462c0819:PsiDirectoryNode" />
-              <item name="NeuralNetwork_CNN_ColorMap" type="462c0819:PsiDirectoryNode" />
+              <item name="Frequency_Phace_Filter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -136,17 +138,26 @@
       <workItem from="1610035798771" duration="599000" />
       <workItem from="1610091116421" duration="1695000" />
       <workItem from="1610183286015" duration="602000" />
-      <workItem from="1610191840749" duration="784000" />
+      <workItem from="1610191840749" duration="1449000" />
+      <workItem from="1610353391830" duration="998000" />
+      <workItem from="1610475097490" duration="382000" />
+      <workItem from="1611934885916" duration="733000" />
+      <workItem from="1611945168332" duration="12000" />
+      <workItem from="1612017081326" duration="2637000" />
+      <workItem from="1612084924317" duration="14000" />
+      <workItem from="1612092046620" duration="978000" />
+      <workItem from="1612184086316" duration="1742000" />
+      <workItem from="1612631199340" duration="49000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41416000" />
+    <option name="totallyTimeSpent" value="49626000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1313673" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09584451" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -160,7 +171,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.38613862" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.38189533" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
